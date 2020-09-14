@@ -4,7 +4,7 @@ Manhattan Zoo is a Git project, you’ll use Git to keep track of meal guideline
 
 ## Installation
 
-Use the Command-line interface to install the project locally
+Use the Command-line interface to install the project locally on your Device.
 
 ```bash
 git clone https://github.com/SenayYakut/Manhattan-Zoo.git
