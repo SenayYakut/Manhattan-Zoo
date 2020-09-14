@@ -11,7 +11,10 @@ $ git --version
 
 If you don’t have it installed already, it will prompt you to install it.
 
-Install Git at(https://git-scm.com/download/mac)
+Install Git 
+```bash
+https://git-scm.com/download/mac
+```bash
 
 
 
