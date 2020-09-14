@@ -11,10 +11,8 @@ $ git --version
 ```
 
 If you don’t have it installed already, it will prompt you to install it.
-
-Install Git 
 ```bash
-https://git-scm.com/download/mac
+Install Git (https://git-scm.com/download/mac)
 ```
 
 Use the Command-line interface to install the project locally on your Device.
